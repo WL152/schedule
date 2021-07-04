@@ -37,7 +37,7 @@ jobs:
 - Go to https://crontab-generator.org/
 - Select the timing
 - Crontab will generate the POSIX cron syntax
-- Update in `schedule: - cron:`
+- Update `schedule: - cron:` in main.yml
 ![image](https://user-images.githubusercontent.com/81748800/124390437-37366080-dd1e-11eb-83c4-5fce4cd85912.png)
 
 
