@@ -42,4 +42,6 @@ jobs:
 
 
 
+
+### How to read cron syntax
 ![image](https://user-images.githubusercontent.com/81748800/124390246-38b35900-dd1d-11eb-85f3-3342e3ed0b2d.png)
